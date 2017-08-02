@@ -1,2 +1,4 @@
 # Leetcode-solution-by-Python
-001 - Two Sum
+array:
+    001 - Two Sum
+    027 - Remove Elements
